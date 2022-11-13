@@ -9,8 +9,10 @@ I analyzed US population data from Census and from the National Center of Educat
 
 ### Running the program:
 1.Clone my repository
+
 2.Have Python 3 installed on your machine
-3.To run the project, in the directory pip install the requirements.txt file by running "pip install -r requirements.txt"
+
+3.From the directory pip install the requirements.txt file by running "pip install -r requirements.txt"
 
 
 #### Project Requirements: 
@@ -23,7 +25,7 @@ Feature 2 - Manipulate and clean your data: In each data set I included a column
 
 Feature 3 -  Visualize data - Utilized Grouby and Pivot table to aggregate data, and .loc to filter data. I also created a Pie chart, a Bar chart, and a Stacked Bar Chart by utilizing Matplotlib.
 
-Feature 4 - Utilized a virtual environment and include instructions in the README on how the user should run the project.
+Feature 4 - Utilized a virtual environment and include instructions in the README on how the user should run.
 
 Feature 5 - Interpreted the data by annotating the code via markdown cells.  
 
